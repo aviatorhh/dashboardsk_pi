@@ -5,6 +5,7 @@ This project provides an universal instrument dashboard display for [OpenCPN](ht
 
 [![Hosted By: Cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&style=flat-square)](https://cloudsmith.com)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/27049/badge.svg)](https://scan.coverity.com/projects/nohal-dashboardsk_pi)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/nohal/dashboardsk_pi/main.svg)](https://results.pre-commit.ci/latest/github/nohal/dashboardsk_pi/main)
 
 ## Dependencies
 
@@ -12,7 +13,7 @@ The plugin uses wxWidgets 3.2 or newer (although building against wxWidgets 3.0 
 
 ## Compiling
 
-To compile this plugin you have to be able to compile OpenCPN itself, refer to the [OpenCPN Developer Manual](https://opencpn-manuals.github.io/main/ocpn-dev-manual/intro-AboutThisManual.html) for instructions on preparing the environment
+To compile this plugin you have to be able to compile OpenCPN itself, refer to the [OpenCPN Developer Manual](https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/index.html) for instructions on preparing the environment
 
 ### Linux/macOS
 
